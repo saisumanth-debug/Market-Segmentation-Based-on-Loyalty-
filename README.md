@@ -1,1 +1,1 @@
-# Market-Segmentation-Based-on-Loyalty-
+# Market-Segmentation-Based-on-Loyalty
